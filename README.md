@@ -1,2 +1,0 @@
-# ts-vite-todo
-O ts-vite-todo é um desafio que criei para aprimorar minhas habilidades em ReactJS, TypeScript e Vite. Trata-se de uma lista de afazeres em TypeScript com Vite, desenvolvida para ser ágil no processo de desenvolvimento e possuir um design responsivo. Ao realizar esse desafio, pude fortalecer minha proficiência em manipulação de estado, componentização e estilização no contexto do ReactJS. Superei o desafio com o ViteTodo e aprimorei minhas habilidades nesse ecossistema poderoso!
