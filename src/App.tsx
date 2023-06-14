@@ -21,7 +21,6 @@ function App() {
     e.preventDefault();
     setTasks([...tasks, {id: nextID, content: newTaskText, completed: false}]);
     setNextID(nextID + 1);
-    console.log(tasks);
   } 
 
   function handleTaskTextChange(e: ChangeEvent<HTMLInputElement>) {

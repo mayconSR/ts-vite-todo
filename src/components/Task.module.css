@@ -72,3 +72,9 @@
 .task button:hover svg{
   color: var(--danger);
 }
+@media (max-width: 768px) {
+  .task{
+    width: 95%;
+    flex-shrink: 0;
+  }
+}
